@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  width: 1500px;
+}
+
+
+.navContainer {
+  background-color: rgba(51, 49, 49, 0.774);
+  width: 665px;
+  height: 55px;
+  display: flex;
+  justify-content: space-between;
+  justify-items: center;
+  margin: 10px 10px;
+  padding: 10px 30px;
+}
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin:10px ;
+  margin-bottom: 60px; 
+}
+.details p{
+  color: white;
+}
+.affich{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;}
+  
+
+.title{
+  font-style: italic;
+  color: darkgoldenrod;
+}
